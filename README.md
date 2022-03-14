@@ -1,1 +1,1 @@
-# example-GOT
+# example-docarray
